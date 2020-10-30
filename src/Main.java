@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Hello World");
         drawLine(); // the top
         for (int i = 8; i > 0; i -= 2) { // draw the top part of the diamond
             System.out.print("|");
